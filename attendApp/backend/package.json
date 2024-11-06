@@ -18,9 +18,9 @@
         "mysql2": "latest"
     },
     "devDependencies": {
-        "bcrypt": "5.0.0",
         "eslint": "7.32.0",
-        "sequelize": "6.6.5",
+        "sequelize": "6.12.3",
+        "bcrypt": "5.0.0",
         "jest": "27.0.6"
     }
 }

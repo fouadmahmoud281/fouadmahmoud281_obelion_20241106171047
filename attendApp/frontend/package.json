@@ -9,8 +9,8 @@
     },
     "dependencies": {
         "react": "latest",
-        "react-router-dom": "latest",
         "react-dom": "latest",
+        "react-router-dom": "latest",
         "axios": "latest",
         "redux": "latest"
     },
